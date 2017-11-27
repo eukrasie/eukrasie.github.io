@@ -30,4 +30,4 @@
 - 스포츠 재활치료
 - 척추측만증, 일자목 등의 자세교정
 
-[face]: https://ucarecdn.com/bf156474-7fef-439f-906d-c67c9cf7fe65/noroot.jpg 
+[face]: https://ucarecdn.com/bf156474-7fef-439f-906d-c67c9cf7fe65/noroot.jpg =200x
