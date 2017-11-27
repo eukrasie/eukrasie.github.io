@@ -3,10 +3,8 @@
 
 ![alt text](https://ucarecdn.com/bf156474-7fef-439f-906d-c67c9cf7fe65/noroot.jpg =200x)
 
-- 2014 ~ 늘봄재활병원 원장
-- 2012 ~ 2013 Visiting Assistant Professor at Stanford University Medical College, Department of Orthopedic Surgery
-
-   (미국 스탠포드 의과대학 정형외과 초빙교수)
+- 늘봄재활병원 원장
+- 미국 스탠포드 의과대학 정형외과 초빙교수
 - 고려대학교 안암병원 재활의학과 임상교수 
 - 의학박사
 - 재활의학과 전문의 
