@@ -1,10 +1,9 @@
 # 도전근 재활의학과 
 ### 원장 최종우 약력
-- 2013.8~	늘봄재활병원 원장
-- 2012.3~2013.8	Visiting Assistant Professor at Stanford University Medical College, Department of Orthopedic Surgery
-
-5/2011-5/2012 		Clinical professor, Physical Medicine and Rehabilitation Dept
-			Korea University Medical Center
+- 2014 ~ 늘봄재활병원 원장
+- 2012 ~ 2013 Visiting Assistant Professor at Stanford University Medical College, Department of Orthopedic Surgery
+... (미국 스탠포드 의과대학 정형외과 초빙교수)
+- 고려대학교 안암병원 재활의학과 임상교수 
 03/2007-13/2011	Director of Physical Medicine and Rehabilitation department, Nulbom Rehabilitation Hospital, Je ju, Korea
 08/2006-09/20009 	Faculty member of Bioscience and Industry, 
 Major of Horticultural science, college of applied life science
