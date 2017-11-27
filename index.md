@@ -1,7 +1,7 @@
 # 도전근 재활의학과 
 ### 원장 최종우 약력
 
-![alt text][face]
+![alt text](https://ucarecdn.com/bf156474-7fef-439f-906d-c67c9cf7fe65/noroot.jpg =200x)
 
 - 2014 ~ 늘봄재활병원 원장
 - 2012 ~ 2013 Visiting Assistant Professor at Stanford University Medical College, Department of Orthopedic Surgery
@@ -30,4 +30,6 @@
 - 스포츠 재활치료
 - 척추측만증, 일자목 등의 자세교정
 
-[face]: https://ucarecdn.com/bf156474-7fef-439f-906d-c67c9cf7fe65/noroot.jpg =200x
+### 위치
+- 강남역 12번 출구
+
