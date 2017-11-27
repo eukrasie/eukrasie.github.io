@@ -1,7 +1,7 @@
 # 도전근 재활의학과 
 ### 원장 최종우 약력
 
-![alt text](https://ucarecdn.com/bf156474-7fef-439f-906d-c67c9cf7fe65/noroot.jpg =200x)
+<img src="https://ucarecdn.com/bf156474-7fef-439f-906d-c67c9cf7fe65/noroot.jpg" width="200">
 
 - 늘봄재활병원 원장
 - 미국 스탠포드 의과대학 정형외과 초빙교수
